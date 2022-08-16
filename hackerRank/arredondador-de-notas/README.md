@@ -11,7 +11,7 @@
 
 *retornará:* [75, 95, 40, 33]
 
-***===> 75 - 73 = 2 então 73 será arredondado para 75.***
-***===> 94 - 95 =  então 94 será arredondado para 95.***
-***===> 38 - 40 = 2 então 38 será arredondado para 40.***
-***===> 33 usa por base 35 e não 40 que é o valor mínimo, então ele não é arredondado.***
+***===> 75 - 73 = 2 então 73 será arredondado para 75.*** <br/>
+***===> 94 - 95 =  então 94 será arredondado para 95.*** <br/>
+***===> 38 - 40 = 2 então 38 será arredondado para 40.*** <br/>
+***===> 33 usa por base 35 e não 40 que é o valor mínimo, então ele não é arredondado.*** <br/>
